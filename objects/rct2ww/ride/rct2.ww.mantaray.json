@@ -11,6 +11,8 @@
             "water",
             "rollercoaster"
         ],
+        "hasShelter": true,
+        "playSplashSoundSlide": true,
         "minCarsPerTrain": 3,
         "maxCarsPerTrain": 3,
         "numEmptyCars": 2,
