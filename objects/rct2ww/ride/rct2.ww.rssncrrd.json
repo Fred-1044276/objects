@@ -8,6 +8,7 @@
     "properties": {
         "type": "mini_rc",
         "category": "rollercoaster",
+        "hasShelter": true,
         "carColours": [
             [
                 ["olive_green", "saturated_brown", "bright_red"],
@@ -74,7 +75,7 @@
     "images": ["$RCT2:OBJDATA/RSSNCRRD.DAT[0..1814]"],
     "strings": {
         "name": {
-            "en-GB": "Russian Cars",
+            "en-GB": "Trabant Cars",
             "fr-FR": "Trabant",
             "de-DE": "Trabant-Wagen",
             "es-ES": "Coches Trabant",
@@ -89,7 +90,7 @@
             "pt-BR": "Carros Russos"
         },
         "description": {
-            "en-GB": "Roller coaster cars in the shape of automobiles",
+            "en-GB": "Roller coaster cars in the shape of Trabant car replicas",
             "fr-FR": "Montagnes russes avec voitures en fome d'automobiles",
             "de-DE": "Achterbahnwagen mit dem Aussehen von Trabantautos",
             "es-ES": "Vagones con forma de automóviles",
