@@ -9,7 +9,7 @@
         "type": "wooden_rc",
         "category": "rollercoaster",
         "minCarsPerTrain": 2,
-        "maxCarsPerTrain": 6,
+        "maxCarsPerTrain": 7,
         "carColours": [
             [
                 ["yellow", "black", "light_orange"]
@@ -69,7 +69,7 @@
             "ru-RU": "Вагонетки"
         },
         "description": {
-            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints",
+            "en-GB": "Wooden roller coaster trains with padded seats and lap bar restraints, themed to look like mine carts",
             "fr-FR": "Train pour montagnes russes en bois avec des sièges rembourrés et des barres de protection au niveau des jambes",
             "de-DE": "Holzachterbahnzüge mit gepolsterten Sitzen und Beckenhalterungen",
             "es-ES": "Trenes de madera con asientos acolchados y barras de sujeción",
