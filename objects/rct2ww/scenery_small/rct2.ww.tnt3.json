@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 32,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TNT3.DAT[0..3]"],
@@ -23,14 +22,15 @@
             "de-DE": "TNT-Zünder",
             "es-ES": "Detonador de TNT",
             "it-IT": "Detonatore per TNT",
-            "nl-NL": "TNT-Ontsteking",
+            "nl-NL": "TNT-ontsteker",
             "sv-SE": "TNT-detonator",
             "zh-CN": "炸药雷管",
             "cs-CZ": "Rozbuška",
             "ko-KR": "TNT 기폭장치",
             "pl-PL": "Detonator",
             "ru-RU": "Детонатор ТНТ",
-            "pt-BR": "Detonador de TNT"
+            "pt-BR": "Detonador de TNT",
+            "ja-JP": "TNTの雷管"
         }
     }
 }

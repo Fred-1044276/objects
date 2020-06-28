@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 32,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 40,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TNT4.DAT[0..3]"],
@@ -23,14 +22,15 @@
             "de-DE": "TNT-Kisten",
             "es-ES": "Cajas de TNT",
             "it-IT": "Casse di TNT",
-            "nl-NL": "TNT-Kisten",
+            "nl-NL": "TNT-kisten",
             "sv-SE": "TNT-lådor",
             "zh-CN": "装炸药箱",
             "cs-CZ": "Bedna dynamitu",
             "ko-KR": "TNT 상자",
             "pl-PL": "Skrzynie z dynamitem",
             "ru-RU": "ТНТ",
-            "pt-BR": "Caixa de TNT"
+            "pt-BR": "Caixa de TNT",
+            "ja-JP": "TNTの木枠"
         }
     }
 }

@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 32,
+        "removalPrice": -28,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TRCKPRT3.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "다이아몬드 수갱",
             "pl-PL": "Szyb kopalni diamentów",
             "ru-RU": "Ствол",
-            "pt-BR": "Galeria de Diamante"
+            "pt-BR": "Galeria de Diamante",
+            "ja-JP": "ダイヤモンド・シャフト"
         }
     }
 }

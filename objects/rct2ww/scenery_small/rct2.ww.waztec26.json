@@ -6,10 +6,11 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4+D",
         "isRotatable": true,
         "isStackable": true,
@@ -19,11 +20,14 @@
     "strings": {
         "name": {
             "en-GB": "Temple Wall Corner Piece",
+            "de-DE": "Tempelwandecken-Bauteil",
             "cs-CZ": "Rohová stěna chrámu",
             "ko-KR": "사원 벽 구석 조각",
             "pl-PL": "Narożny segment ściany świątyni",
             "ru-RU": "Деталь стены храма",
-            "pt-BR": "Peça de Canto de Parede do Templo"
+            "pt-BR": "Peça de Canto de Parede do Templo",
+            "fr-FR": "Coin de mur de temple",
+            "ja-JP": "寺 壁　コーナー部分"
         }
     }
 }

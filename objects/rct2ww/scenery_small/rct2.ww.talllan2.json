@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 28,
+        "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 96,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TALLLAN2.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "키 큰 초롱",
             "pl-PL": "Wysoka latarnia",
             "ru-RU": "Лампа",
-            "pt-BR": "Lanterna Alta"
+            "pt-BR": "Lanterna Alta",
+            "ja-JP": "大灯"
         }
     }
 }

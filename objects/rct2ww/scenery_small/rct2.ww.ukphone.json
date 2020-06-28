@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 68,
+        "removalPrice": -54,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 96,
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/UKPHONE.DAT[0..3]"],
@@ -30,7 +30,8 @@
             "ko-KR": "영국 공중전화 박스",
             "pl-PL": "Angielska budka telefoniczna",
             "ru-RU": "Телефонная будка",
-            "pt-BR": "Cabine Telefônica Inglesa"
+            "pt-BR": "Cabine Telefônica Inglesa",
+            "ja-JP": "イギリス風電話ボックス"
         }
     }
 }

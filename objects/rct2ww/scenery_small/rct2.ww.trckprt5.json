@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 14,
+        "removalPrice": -10,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TRCKPRT5.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "굽은 트랙",
             "pl-PL": "Zakręt toru",
             "ru-RU": "Трек",
-            "pt-BR": "Curva de Trilho"
+            "pt-BR": "Curva de Trilho",
+            "ja-JP": "線路 曲線"
         }
     }
 }

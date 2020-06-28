@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "hasNoSupports": true
     },
@@ -30,7 +30,8 @@
             "ko-KR": "칙칙한 벽 조각 9",
             "pl-PL": "Segment płowej ściany 9",
             "ru-RU": "Деталь стены",
-            "pt-BR": "Peça de Parede Gris 9"
+            "pt-BR": "Peça de Parede Gris 9",
+            "ja-JP": "壊れた壁9"
         }
     }
 }

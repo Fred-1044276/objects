@@ -6,14 +6,16 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 24,
+        "removalPrice": -18,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/TJBLOCK1.DAT[0..3]"],
@@ -24,14 +26,15 @@
             "de-DE": "Maharadschapalast-Bauteil",
             "es-ES": "Pieza del palacio del Maharajá",
             "it-IT": "Pezzo di palazzo del Maragià",
-            "nl-NL": "Stuk Maharadja-Paleis",
+            "nl-NL": "Stuk Maharadjapaleis",
             "sv-SE": "Del till maharadjans palats",
             "zh-CN": "印度邦主皇宫片段",
             "cs-CZ": "Mahárádžův palác",
             "ko-KR": "마하라자 궁전 조각",
             "pl-PL": "Element pałacu maharadży",
             "ru-RU": "Деталь дворца",
-            "pt-BR": "Peça de Palácio do Marajá"
+            "pt-BR": "Peça de Palácio do Marajá",
+            "ja-JP": "マハーラージャ宮殿 ピース"
         }
     }
 }

@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 32,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 48,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TNT1.DAT[0..3]"],
@@ -23,14 +22,15 @@
             "de-DE": "TNT-Stapel",
             "es-ES": "Pila de TNT",
             "it-IT": "Candelotti di TNT",
-            "nl-NL": "TNT-Stapel",
+            "nl-NL": "TNT-stapel",
             "sv-SE": "TNT-trave",
             "zh-CN": "炸药堆",
             "cs-CZ": "Dynamit",
             "ko-KR": "TNT 무더기",
             "pl-PL": "Stosik dynamitu",
             "ru-RU": "Куча ТНТ",
-            "pt-BR": "Pilha de TNT"
+            "pt-BR": "Pilha de TNT",
+            "ja-JP": "TNTの束"
         }
     }
 }

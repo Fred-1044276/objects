@@ -7,12 +7,12 @@
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
-        "removalPrice": -15,
+        "removalPrice": -10,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 48,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "hasNoSupports": true
     },
@@ -30,7 +30,8 @@
             "ko-KR": "칙칙한 계단 조각 1",
             "pl-PL": "Płowy segment wznoszący 1",
             "ru-RU": "Деталь",
-            "pt-BR": "Peça de Subida Gris 1"
+            "pt-BR": "Peça de Subida Gris 1",
+            "ja-JP": "壊れたステップアップの部分1"
         }
     }
 }

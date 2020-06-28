@@ -6,15 +6,17 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 44,
+        "removalPrice": -38,
         "cursor": "CURSOR_FOUNTAIN_DOWN",
         "height": 32,
         "animationDelay": 2,
         "animationMask": 15,
         "numFrames": 16,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+		"requiresFlatSurface": true,
         "isRotatable": true,
         "isAnimated": true,
         "isStackable": true,
@@ -36,7 +38,8 @@
             "ko-KR": "기념물 분수",
             "pl-PL": "Monumentalna fontanna",
             "ru-RU": "Фонтан",
-            "pt-BR": "Fonte Monumental"
+            "pt-BR": "Fonte Monumental",
+            "ja-JP": "記念碑　噴水"
         }
     }
 }

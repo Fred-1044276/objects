@@ -7,12 +7,11 @@
     "objectType": "scenery_small",
     "properties": {
         "price": 20,
-        "removalPrice": -15,
+        "removalPrice": -14,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TRCKPRT8.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "분기 트랙",
             "pl-PL": "Rozwidlenie toru",
             "ru-RU": "Трек",
-            "pt-BR": "Divisão de Trilho"
+            "pt-BR": "Divisão de Trilho",
+            "ja-JP": "線路 分岐"
         }
     }
 }

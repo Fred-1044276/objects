@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 24,
+        "removalPrice": -18,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/TRCKPRT2.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "빈 카트",
             "pl-PL": "Pusty wózek",
             "ru-RU": "Вагонетка",
-            "pt-BR": "Carroça Vazia"
+            "pt-BR": "Carroça Vazia",
+            "ja-JP": "空のカート"
         }
     }
 }

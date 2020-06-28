@@ -6,10 +6,11 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
         "isStackable": true,
@@ -19,11 +20,14 @@
     "strings": {
         "name": {
             "en-GB": "Temple Stairway Piece",
+            "de-DE": "Tempeltreppen-Bauteil",
             "cs-CZ": "Chrámové schody",
             "ko-KR": "사원 계단 조각",
             "pl-PL": "Segment schodów świątynnych",
             "ru-RU": "Деталь Ступеней",
-            "pt-BR": "Peça de Escadaria do Templo"
+            "pt-BR": "Peça de Escadaria do Templo",
+            "fr-FR": "Pièce d'escalier de temple",
+            "ja-JP": "寺 階段部分"
         }
     }
 }

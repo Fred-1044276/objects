@@ -6,15 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 12,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 30,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -34,7 +34,8 @@
             "ko-KR": "탈의실 파라솔",
             "pl-PL": "Wierzch budki",
             "ru-RU": "Верх",
-            "pt-BR": "Topo de Cabana"
+            "pt-BR": "Topo de Cabana",
+            "ja-JP": "小屋の上部"
         }
     }
 }

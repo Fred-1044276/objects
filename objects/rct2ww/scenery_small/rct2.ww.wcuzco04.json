@@ -6,10 +6,11 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 12,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
         "isStackable": true,
@@ -29,7 +30,8 @@
             "ko-KR": "기념물 부서진 벽 조각",
             "pl-PL": "Monumentalny uszkodzony segment ściany",
             "ru-RU": "Деталь стены",
-            "pt-BR": "Peça de Parede Quebrada Monumental"
+            "pt-BR": "Peça de Parede Quebrada Monumental",
+            "ja-JP": "記念碑　壊れた壁部分"
         }
     }
 }
