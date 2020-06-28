@@ -6,13 +6,14 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "hasNoSupports": true
     },
@@ -30,7 +31,8 @@
             "ko-KR": "크렘린 벽 조각 3",
             "pl-PL": "Segment muru kremlowskiego 3",
             "ru-RU": "Стена Кремля",
-            "pt-BR": "Peça de Parede do Kremlim 3"
+            "pt-BR": "Peça de Parede do Kremlim 3",
+            "ja-JP": "クレムリンの壁3"
         }
     }
 }

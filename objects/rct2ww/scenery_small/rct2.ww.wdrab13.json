@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 48,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "hasNoSupports": true
     },
@@ -30,7 +30,8 @@
             "ko-KR": "칙칙하고 점진적인 조각 2",
             "pl-PL": "Płowy segment wznoszący 2",
             "ru-RU": "Деталь",
-            "pt-BR": "Peça de Subida Gris 9"
+            "pt-BR": "Peça de Subida Gris 9",
+            "ja-JP": "壊れたステップアップの部分2"
         }
     }
 }

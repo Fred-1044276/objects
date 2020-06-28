@@ -6,18 +6,21 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 44,
+        "removalPrice": -38,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
         "animationDelay": 2,
         "animationMask": 15,
         "numFrames": 16,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+		"requiresFlatSurface": true,
         "isRotatable": true,
         "isAnimated": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true,
         "SMALL_SCENERY_FLAG_VISIBLE_WHEN_ZOOMED": true,
         "frameOffsets": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -36,7 +39,8 @@
             "ko-KR": "해상 구석 지붕 울타리",
             "pl-PL": "Narożnik poręczy dachu żeglarskiego",
             "ru-RU": "Перила крыши",
-            "pt-BR": "Peça de Canto do Telhado Náutico"
+            "pt-BR": "Peça de Canto do Telhado Náutico",
+            "ja-JP": "航海 屋根の柵（コーナー）"
         }
     }
 }

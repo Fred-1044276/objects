@@ -6,10 +6,11 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 24,
+        "removalPrice": -18,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 50,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
         "isStackable": true,
@@ -29,7 +30,8 @@
             "ko-KR": "잃어버린 도시 기둥 조각",
             "pl-PL": "Zaginione miasto - część kolumny",
             "ru-RU": "Деталь Колонны",
-            "pt-BR": "Peça de Coluna da Cidade Perdida"
+            "pt-BR": "Peça de Coluna da Cidade Perdida",
+            "ja-JP": "失われた都市　円柱部分"
         }
     }
 }
