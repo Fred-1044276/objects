@@ -6,11 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 28,
+        "removalPrice": -22,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
         "hasPrimaryColour": true,
         "isStackable": true,
@@ -20,18 +22,19 @@
     "images": ["$RCT2:OBJDATA/RKREML03.DAT[0..3]"],
     "strings": {
         "name": {
-            "en-GB": "Kremlin Minaret Piece 3",
-            "fr-FR": "Pièce de dôme du Kremlin 3",
-            "de-DE": "Kreml - Zwiebelkuppel-Bauteil 3",
-            "es-ES": "Pieza de cúpula del Kremlin 3",
-            "it-IT": "Pezzo di cupola del Cremlino 3",
-            "nl-NL": "Stuk Kremlin-Minaret 3",
-            "sv-SE": "Del 3 till Kreml-minarettorn",
-            "cs-CZ": "Kremlinský Minaret díl 3",
-            "ko-KR": "크렘린 성탑 조각 3",
-            "pl-PL": "Część wieżyczki kremlowskiej 3",
+            "en-GB": "Kremlin Minaret Piece 1",
+            "fr-FR": "Pièce de dôme du Kremlin 1",
+            "de-DE": "Kreml - Zwiebelkuppel-Bauteil 1",
+            "es-ES": "Pieza de cúpula del Kremlin 1",
+            "it-IT": "Pezzo di cupola del Cremlino 1",
+            "nl-NL": "Stuk Kremlin-Minaret 1",
+            "sv-SE": "Del 1 till Kreml-minarettorn",
+            "cs-CZ": "Kremlinský Minaret díl 1",
+            "ko-KR": "크렘린 성탑 조각 1",
+            "pl-PL": "Część wieżyczki kremlowskiej 1",
             "ru-RU": "Кремль",
-            "pt-BR": "Peça de Minarete do Kremlin 3"
+            "pt-BR": "Peça de Minarete do Kremlin 1",
+            "ja-JP": "クレムリン　ミナレット部分1"
         }
     }
 }

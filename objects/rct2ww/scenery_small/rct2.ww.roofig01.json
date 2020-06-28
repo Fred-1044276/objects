@@ -6,15 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 16,
+        "removalPrice": -10,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -34,7 +34,8 @@
             "ko-KR": "이글루 벽",
             "pl-PL": "Ściana igloo",
             "ru-RU": "Стена иглу",
-            "pt-BR": "Parede de Iglu"
+            "pt-BR": "Parede de Iglu",
+            "ja-JP": "イグルーの壁"
         }
     }
 }

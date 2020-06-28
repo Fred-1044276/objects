@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 26,
+        "removalPrice": -20,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/SB1HSPB2.DAT[0..3]"],
@@ -30,7 +30,8 @@
             "ko-KR": "현수교 기본 간격 조각",
             "pl-PL": "Most wiszący segment odstępnika",
             "ru-RU": "Подвесной Мостик",
-            "pt-BR": "Peça Espaçadora de Base da Ponte Suspensa"
+            "pt-BR": "Peça Espaçadora de Base da Ponte Suspensa",
+            "ja-JP": "吊り橋　土台部分"
         }
     }
 }

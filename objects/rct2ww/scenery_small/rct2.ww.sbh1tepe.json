@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 26,
+        "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 64,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/SBH1TEPE.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "원뿔형 천막",
             "pl-PL": "Tipi",
             "ru-RU": "Вигвам",
-            "pt-BR": "Tipi"
+            "pt-BR": "Tipi",
+            "ja-JP": "ティピー"
         }
     }
 }

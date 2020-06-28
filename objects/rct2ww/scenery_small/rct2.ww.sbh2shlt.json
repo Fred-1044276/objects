@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 96,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/SBH2SHLT.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "서치라이트",
             "pl-PL": "Reflektor",
             "ru-RU": "Прожектор",
-            "pt-BR": "Luz de Sinalização"
+            "pt-BR": "Luz de Sinalização",
+            "ja-JP": "サーチライト"
         }
     }
 }

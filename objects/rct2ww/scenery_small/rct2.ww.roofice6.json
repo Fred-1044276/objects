@@ -6,15 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -34,7 +34,8 @@
             "ko-KR": "눈 지붕",
             "pl-PL": "Lodowy dach",
             "ru-RU": "Крыша",
-            "pt-BR": "Teto de Gelo"
+            "pt-BR": "Teto de Gelo",
+            "ja-JP": "氷の屋"
         }
     }
 }

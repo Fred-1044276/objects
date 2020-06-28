@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": 15,
+        "price": 28,
+        "removalPrice": 22,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 112,
         "sceneryGroup": "SCGTREES",
@@ -26,7 +26,9 @@
             "ko-KR": "선인장",
             "pl-PL": "Kaktus",
             "ru-RU": "Кактус",
-            "pt-BR": "Cacto"
+            "pt-BR": "Cacto",
+            "ja-JP": "サボテン",
+            "fr-FR": "Cactus"
         }
     }
 }

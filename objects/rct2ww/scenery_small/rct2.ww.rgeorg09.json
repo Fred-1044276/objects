@@ -6,14 +6,16 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 16,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/RGEORG09.DAT[0..3]"],
@@ -30,7 +32,8 @@
             "ko-KR": "조지아식 평평한 지붕 가장자리 1",
             "pl-PL": "Georgiański skraj płaskiego dachu 1",
             "ru-RU": "Georgian Flat Roof Edge 1",
-            "pt-BR": "Borda de Telhado Georgiano 1"
+            "pt-BR": "Borda de Telhado Georgiano 1",
+            "ja-JP": "ジョージア風の平屋根 角 1"
         }
     }
 }

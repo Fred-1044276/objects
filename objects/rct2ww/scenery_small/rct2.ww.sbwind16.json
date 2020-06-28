@@ -6,15 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 12,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -34,7 +34,8 @@
             "ko-KR": "풍화된 지붕 평평한 지붕 조각",
             "pl-PL": "Zerodowany segment płaskiego szczytu",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado Plano Esculpido Pelo Vento"
+            "pt-BR": "Peça de Telhado Plano Esculpido Pelo Vento",
+            "ja-JP": "風で削られた　平屋根部分"
         }
     }
 }

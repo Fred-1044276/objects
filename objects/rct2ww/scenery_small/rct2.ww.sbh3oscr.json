@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 68,
+        "removalPrice": -64,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 160,
         "shape": "4/4",
@@ -29,7 +29,8 @@
             "ko-KR": "롤러코스터 어워드 상",
             "pl-PL": "Pomnik nagrody kolejki górskiej",
             "ru-RU": "Статуэтка Роллеркоастер",
-            "pt-BR": "Estátua de Prêmio de Montanha-russa"
+            "pt-BR": "Estátua de Prêmio de Montanha-russa",
+            "ja-JP": "ローラーコースター賞の像"
         }
     }
 }

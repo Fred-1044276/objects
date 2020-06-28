@@ -6,13 +6,14 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 28,
+        "removalPrice": -22,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 64,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "hasNoSupports": true
     },
@@ -30,7 +31,8 @@
             "ko-KR": "크렘린 작은 탑 기본",
             "pl-PL": "Kremlowska wieżyczka - podstawa",
             "ru-RU": "Кремль",
-            "pt-BR": "Base de Torre Pequena do Kremlin"
+            "pt-BR": "Base de Torre Pequena do Kremlin",
+            "ja-JP": "クレムリン　小さな塔　土台"
         }
     }
 }

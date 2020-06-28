@@ -6,15 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -34,7 +34,8 @@
             "ko-KR": "곡선형 진흙 벽 조각",
             "pl-PL": "Segment zakrzywionej ściany glinianej",
             "ru-RU": "Деталь стены",
-            "pt-BR": "Peça de Parede Curvada de Barro"
+            "pt-BR": "Peça de Parede Curvada de Barro",
+            "ja-JP": "カーブした泥の壁"
         }
     }
 }
