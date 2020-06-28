@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 56,
         "animationDelay": 2,
@@ -29,14 +29,15 @@
             "de-DE": "Flamingo (beim Putzen)",
             "es-ES": "Flamenco acicalándose",
             "it-IT": "Fenicottero che si pulisce",
-            "nl-NL": "Flamingo's Gladstrijken",
+            "nl-NL": "Flamingo die veren gladstrijkt",
             "sv-SE": "Flamingo som putsar fjädrarna",
             "zh-CN": "红鹤用喙理毛",
             "cs-CZ": "Plameňák",
             "ko-KR": "몸치장을 하는 홍학",
             "pl-PL": "Flaming muskający pióra",
             "ru-RU": "Фламинго",
-            "pt-BR": "Flamingo Limpando as Penas"
+            "pt-BR": "Flamingo Limpando as Penas",
+            "ja-JP": "羽づくろいするフラミンゴ"
         }
     }
 }

@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 34,
         "animationDelay": 2,
@@ -32,7 +32,9 @@
             "ko-KR": "이누이트",
             "pl-PL": "Eskimos",
             "ru-RU": "Инуит",
-            "pt-BR": "Esquimó"
+            "pt-BR": "Esquimó",
+            "ja-JP": "イヌイット",
+            "fr-FR": "Inuit"
         }
     }
 }

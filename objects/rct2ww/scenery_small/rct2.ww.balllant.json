@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 24,
+        "removalPrice": -18,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 80,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/BALLLANT.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "공 모양 초롱",
             "pl-PL": "Latarnia balowa",
             "ru-RU": "Лампа",
-            "pt-BR": "Lanterna Chinesa"
+            "pt-BR": "Lanterna Chinesa",
+            "ja-JP": "提灯"
         }
     }
 }

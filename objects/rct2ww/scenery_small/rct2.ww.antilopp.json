@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 48,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/ANTILOPP.DAT[0..3]"],
@@ -20,7 +19,7 @@
         "name": {
             "en-GB": "Antelope Pair",
             "fr-FR": "Couple d'antilopes",
-            "de-DE": "Antilope (Paar)",
+            "de-DE": "Antilopenpaar",
             "es-ES": "Pareja de antílopes",
             "it-IT": "Coppia di antilopi",
             "nl-NL": "Paar Antilopen",
@@ -30,7 +29,8 @@
             "ko-KR": "영양 한 쌍",
             "pl-PL": "Para antylop",
             "ru-RU": "Пара антилоп",
-            "pt-BR": "Par de Antílopes"
+            "pt-BR": "Par de Antílopes",
+            "ja-JP": "レイヨウ（ペア）"
         }
     }
 }

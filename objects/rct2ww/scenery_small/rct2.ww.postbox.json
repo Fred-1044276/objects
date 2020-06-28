@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 56,
+        "removalPrice": -48,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 52,
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/POSTBOX.DAT[0..3]"],
@@ -30,7 +30,8 @@
             "ko-KR": "영국식 우편함",
             "pl-PL": "Angielska skrzynka pocztowa",
             "ru-RU": "Почтовый ящик",
-            "pt-BR": "Caixa Postal Inglesa"
+            "pt-BR": "Caixa Postal Inglesa",
+            "ja-JP": "イギリス風郵便ポスト"
         }
     }
 }

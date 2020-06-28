@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 34,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/ORIEGONG.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "징",
             "pl-PL": "Gong azjatycki",
             "ru-RU": "Гонг",
-            "pt-BR": "Gongo Asiático"
+            "pt-BR": "Gongo Asiático",
+            "ja-JP": "アジアのゴング"
         }
     }
 }

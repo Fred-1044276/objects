@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": 15,
+        "price": 24,
+        "removalPrice": 20,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 104,
         "sceneryGroup": "SCGTREES",
@@ -29,7 +29,8 @@
             "ko-KR": "작은 열대우림 나무 1",
             "pl-PL": "Drzewko tropikalne 1",
             "ru-RU": "Маленькое дерево",
-            "pt-BR": "Pequena Árvore Tropical 1"
+            "pt-BR": "Pequena Árvore Tropical 1",
+            "ja-JP": "小さな熱帯雨林の木 1"
         }
     }
 }

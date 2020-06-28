@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 28,
+        "removalPrice": -22,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 64,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/RSSB2H02.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "얼음 파이프 기본",
             "pl-PL": "Podstawa rury lodowej",
             "ru-RU": "Труба",
-            "pt-BR": "Base de Tubo de Gelo"
+            "pt-BR": "Base de Tubo de Gelo",
+            "ja-JP": "氷のパイプ　土台"
         }
     }
 }

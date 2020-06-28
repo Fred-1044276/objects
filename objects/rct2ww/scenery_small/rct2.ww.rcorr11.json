@@ -6,14 +6,15 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/RCORR11.DAT[0..3]"],
@@ -31,7 +32,8 @@
             "ko-KR": "물결 무늬 지붕 조각",
             "pl-PL": "Segment dachu z blachy falistej",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado Ondulado"
+            "pt-BR": "Peça de Telhado Ondulado",
+            "ja-JP": "波形の屋根"
         }
     }
 }

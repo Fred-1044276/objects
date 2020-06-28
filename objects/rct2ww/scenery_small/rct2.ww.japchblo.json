@@ -6,16 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": 15,
+        "price": 32,
+        "removalPrice": 24,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 80,
         "sceneryGroup": "SCGTREES",
         "isTree": true,
         "shape": "4/4",
-        "isRotatable": true,
-        "hasPrimaryColour": true,
-        "isStackable": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/JAPCHBLO.DAT[0..3]"],
@@ -33,7 +30,8 @@
             "ko-KR": "벚나무",
             "pl-PL": "Japońska kwitnąca wiśnia",
             "ru-RU": "Сакура в цвету",
-            "pt-BR": "Árvore Cerejeira Florida"
+            "pt-BR": "Árvore Cerejeira Florida",
+            "ja-JP": "日本の桜の木"
         }
     }
 }

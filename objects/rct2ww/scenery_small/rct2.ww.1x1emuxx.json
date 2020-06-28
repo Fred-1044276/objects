@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 96,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/1X1EMUXX.DAT[0..3]"],
@@ -27,7 +26,8 @@
             "ko-KR": "에뮤",
             "pl-PL": "Emu",
             "ru-RU": "Эму",
-            "pt-BR": "Ema"
+            "pt-BR": "Ema",
+            "ja-JP": "エミュー"
         }
     }
 }

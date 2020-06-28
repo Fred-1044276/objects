@@ -6,16 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": 15,
+        "price": 32,
+        "removalPrice": 24,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 160,
         "sceneryGroup": "SCGTREES",
         "isTree": true,
         "shape": "4/4",
-        "isRotatable": true,
-        "hasPrimaryColour": true,
-        "isStackable": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/1X1ATRE2.DAT[0..3]"],
@@ -33,7 +30,8 @@
             "ko-KR": "덩굴",
             "pl-PL": "Drzewo z lianami",
             "ru-RU": "Дерево",
-            "pt-BR": "Videira"
+            "pt-BR": "Videira",
+            "ja-JP": "つるの木"
         }
     }
 }

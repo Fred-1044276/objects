@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/PVA.DAT[0..3]"],
@@ -30,7 +29,8 @@
             "ko-KR": "파이프",
             "pl-PL": "Rura",
             "ru-RU": "Труба",
-            "pt-BR": "Tubo"
+            "pt-BR": "Tubo",
+            "ja-JP": "パイプ"
         }
     }
 }

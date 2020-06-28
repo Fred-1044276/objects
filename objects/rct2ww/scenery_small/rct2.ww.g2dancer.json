@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 88,
         "animationDelay": 2,
@@ -24,9 +24,9 @@
     "images": ["$RCT2:OBJDATA/G2DANCER.DAT[0..67]"],
     "strings": {
         "name": {
-            "en-GB": "Mardi Gras Dancer",
+            "en-GB": "Animatronic Mardi Gras Dancer",
             "fr-FR": "Danseur Mardi Gras",
-            "de-DE": "Mardi Gras-Tänzer",
+            "de-DE": "Mardi-Gras-Tänzer",
             "es-ES": "Bailarín de Mardi Gras",
             "it-IT": "Danzatore del Mardi Gras",
             "nl-NL": "Carnavalsdanseres",
@@ -35,7 +35,8 @@
             "ko-KR": "마디 그라 댄서",
             "pl-PL": "Tancerka karnawałowa",
             "ru-RU": "Танцор Марди Грас",
-            "pt-BR": "Dançarina de Carnaval"
+            "pt-BR": "Dançarina de Carnaval",
+            "ja-JP": "マルディグラのダンサー"
         }
     }
 }

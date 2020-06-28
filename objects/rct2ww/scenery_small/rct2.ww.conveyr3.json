@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 38,
+        "removalPrice": -32,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 34,
         "animationDelay": 2,
@@ -36,7 +36,8 @@
             "ko-KR": "컨베이어 벨트 끄트머리",
             "pl-PL": "Pas transmisyjny - koniec",
             "ru-RU": "Транспортёр",
-            "pt-BR": "Final de Correia Transportadora"
+            "pt-BR": "Final de Correia Transportadora",
+            "ja-JP": "ベルトコンベアーの終点"
         }
     }
 }

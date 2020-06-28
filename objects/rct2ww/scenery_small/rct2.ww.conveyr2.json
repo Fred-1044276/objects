@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 32,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 24,
         "animationDelay": 2,
@@ -36,7 +36,8 @@
             "ko-KR": "컨베이어 벨트 상승",
             "pl-PL": "Pas transmisyjny - wjazd",
             "ru-RU": "Транспортёр",
-            "pt-BR": "Subida de Correia Transportadora"
+            "pt-BR": "Subida de Correia Transportadora",
+            "ja-JP": "ベルトコンベアー上昇"
         }
     }
 }

@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 24,
+        "removalPrice": -18,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 24,
         "animationDelay": 2,
@@ -37,7 +37,8 @@
             "ko-KR": "낚시 구멍",
             "pl-PL": "Przerębel",
             "ru-RU": "Рыбалка",
-            "pt-BR": "Buraco de Peixe"
+            "pt-BR": "Buraco de Peixe",
+            "ja-JP": "釣り堀"
         }
     }
 }

@@ -6,15 +6,14 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 62,
+        "removalPrice": -54,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
         "prohibitWalls": true,
         "hasNoSupports": true
@@ -27,14 +26,15 @@
             "de-DE": "Indisches Elefantenbaby",
             "es-ES": "Cría de elefante indio",
             "it-IT": "Cucciolo di elefante indiano",
-            "nl-NL": "Indisch Olifantsjong",
+            "nl-NL": "Jong van een Indische olifants",
             "sv-SE": "Indisk babyelefant",
             "zh-CN": "印度幼象",
             "cs-CZ": "Malý slon",
             "ko-KR": "아기 인도 코끼리",
             "pl-PL": "Mały słoń indyjski",
             "ru-RU": "Индийский слонёнок",
-            "pt-BR": "Elefante Indiano Filhote"
+            "pt-BR": "Elefante Indiano Filhote",
+            "ja-JP": "インドゾウ（子供）"
         }
     }
 }

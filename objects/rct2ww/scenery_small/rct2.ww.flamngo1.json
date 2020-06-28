@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 56,
         "animationDelay": 2,
@@ -29,14 +29,15 @@
             "de-DE": "Flamingo (fressend)",
             "es-ES": "Flamenco comiendo",
             "it-IT": "Fenicottero che mangia",
-            "nl-NL": "Flamingo's Voeren",
+            "nl-NL": "Etende flamingo",
             "sv-SE": "Flamingo som äter",
             "zh-CN": "饲育红鹤",
             "cs-CZ": "Plameňák",
             "ko-KR": "먹이를 먹는 홍학",
             "pl-PL": "Flaming żerujący",
             "ru-RU": "Фламинго",
-            "pt-BR": "Flamingo Comendo"
+            "pt-BR": "Flamingo Comendo",
+            "ja-JP": "餌を食べるフラミンゴ"
         }
     }
 }

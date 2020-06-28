@@ -6,13 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 38,
+        "removalPrice": -30,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 88,
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/BSTATUE1.DAT[0..3]"],
@@ -23,13 +23,14 @@
             "de-DE": "Beschädigte Statue",
             "es-ES": "Estatua rota",
             "it-IT": "Statua rotta",
-            "nl-NL": "Kapot Beeld",
+            "nl-NL": "Kapot beeld",
             "sv-SE": "Trasig staty",
             "cs-CZ": "Rozbitá socha",
             "ko-KR": "부서진 동상",
             "pl-PL": "Uszkodzony posąg",
             "ru-RU": "Статуэтка",
-            "pt-BR": "Estátua Quebrada"
+            "pt-BR": "Estátua Quebrada",
+            "ja-JP": "壊れた像"
         }
     }
 }

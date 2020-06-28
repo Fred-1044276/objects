@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 22,
+        "removalPrice": -18,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 80,
         "animationDelay": 2,
@@ -36,7 +36,8 @@
             "ko-KR": "캠프 파이어",
             "pl-PL": "Ruchome ognisko",
             "ru-RU": "Костёр",
-            "pt-BR": "Fogueira de Acampamento Animada"
+            "pt-BR": "Fogueira de Acampamento Animada",
+            "ja-JP": "キャンプファイヤー"
         }
     }
 }

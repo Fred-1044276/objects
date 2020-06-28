@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 46,
+        "removalPrice": -38,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 56,
         "animationDelay": 2,
@@ -29,14 +29,15 @@
             "de-DE": "Flamingo (Ausschau haltend)",
             "es-ES": "Flamenco mirando",
             "it-IT": "Fenicottero che guarda",
-            "nl-NL": "Flamingo's Bekijken",
+            "nl-NL": "Rondkijkende flamingo",
             "sv-SE": "Flamingo som tittar",
             "zh-CN": "照育红鹤",
             "cs-CZ": "Plameňák",
             "ko-KR": "쳐다보는 홍학",
             "pl-PL": "Flaming patrzący",
             "ru-RU": "Фламинго",
-            "pt-BR": "Flamingo Observando"
+            "pt-BR": "Flamingo Observando",
+            "ja-JP": "周りを見るフラミンゴ"
         }
     }
 }

@@ -6,14 +6,16 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 18,
+        "removalPrice": -12,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/RBRICK04.DAT[0..3]"],
@@ -21,7 +23,7 @@
         "name": {
             "en-GB": "Red Brick Flat Roof Corner",
             "fr-FR": "Coin de toit plat de brique rouge",
-            "de-DE": "Backstein Flachdachecke",
+            "de-DE": "Backstein-Flachdachecke",
             "es-ES": "Esquina de tejado plano de ladrillo rojo",
             "it-IT": "Angolo di tetto piatto di mattoni rossi",
             "nl-NL": "Hoekstuk voor plat dak van rode baksteen",
@@ -30,7 +32,8 @@
             "ko-KR": "붉은 벽돌 평평한 지붕 구석",
             "pl-PL": "Czerwona cegła - płaski narożnik dachu",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Canto de Telhado de Tijolo Vermelho"
+            "pt-BR": "Canto de Telhado de Tijolo Vermelho",
+            "ja-JP": "赤レンガ 平面屋根（コーナー部分）"
         }
     }
 }

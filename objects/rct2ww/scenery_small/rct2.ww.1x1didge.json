@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 46,
+        "removalPrice": -40,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 168,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/1X1DIDGE.DAT[0..3]"],
@@ -27,7 +26,9 @@
             "ko-KR": "디제리두",
             "pl-PL": "Digeridoo",
             "ru-RU": "Дигериду",
-            "pt-BR": "Didjeridu"
+            "pt-BR": "Didjeridu",
+            "ja-JP": "先住民族の楽器",
+            "fr-FR": "Didgeridoo"
         }
     }
 }

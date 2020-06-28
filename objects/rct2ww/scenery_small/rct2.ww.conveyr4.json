@@ -6,8 +6,8 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 40,
-        "removalPrice": -30,
+        "price": 32,
+        "removalPrice": -26,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 24,
         "animationDelay": 2,
@@ -36,7 +36,8 @@
             "ko-KR": "곧은 컨베이어 벨트",
             "pl-PL": "Pas transmisyjny - prosty",
             "ru-RU": "Транспортёр",
-            "pt-BR": "Reta de Correia Transportadora"
+            "pt-BR": "Reta de Correia Transportadora",
+            "ja-JP": "ベルトコンベアー直進"
         }
     }
 }

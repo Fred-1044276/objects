@@ -6,13 +6,12 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 34,
+        "removalPrice": -28,
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 32,
         "shape": "4/4",
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/BABPANDA.DAT[0..3]"],
@@ -29,7 +28,8 @@
             "ko-KR": "아기 판다",
             "pl-PL": "Mała panda",
             "ru-RU": "Панда",
-            "pt-BR": "Panda Filhote"
+            "pt-BR": "Panda Filhote",
+            "ja-JP": "パンダ（子供）"
         }
     }
 }

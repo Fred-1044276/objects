@@ -6,16 +6,13 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": 15,
+        "price": 28,
+        "removalPrice": 22,
         "cursor": "CURSOR_TREE_DOWN",
         "height": 96,
         "sceneryGroup": "SCGTREES",
         "isTree": true,
         "shape": "4/4",
-        "isRotatable": true,
-        "hasPrimaryColour": true,
-        "isStackable": true
     },
     "images": ["$RCT2:OBJDATA/BAMBOOBS.DAT[0..3]"],
     "strings": {
@@ -31,7 +28,8 @@
             "cs-CZ": "Bambus",
             "ko-KR": "대나무 수풀",
             "ru-RU": "Бамбук",
-            "pt-BR": "Arbusto de Bambu"
+            "pt-BR": "Arbusto de Bambu",
+            "ja-JP": "竹やぶ"
         }
     }
 }

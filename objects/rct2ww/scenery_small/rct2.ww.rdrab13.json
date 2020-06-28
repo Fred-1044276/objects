@@ -6,14 +6,16 @@
     "sourceGame": "rct2ww",
     "objectType": "scenery_small",
     "properties": {
-        "price": 20,
-        "removalPrice": -15,
+        "price": 12,
+        "removalPrice": -8,
         "cursor": "CURSOR_HOUSE_DOWN",
         "height": 8,
+		"sceneryGroup": "SCGWALLS",
         "shape": "4/4",
+		"requiresFlatSurface": true,
         "isRotatable": true,
-        "hasPrimaryColour": true,
         "isStackable": true,
+		"prohibitWalls": true,
         "hasNoSupports": true
     },
     "images": ["$RCT2:OBJDATA/RDRAB13.DAT[0..3]"],
@@ -30,7 +32,8 @@
             "ko-KR": "칙칙한 지붕 조각 3",
             "pl-PL": "Płowy segment dachu 3",
             "ru-RU": "Деталь крыши",
-            "pt-BR": "Peça de Telhado Gris 3"
+            "pt-BR": "Peça de Telhado Gris 3",
+            "ja-JP": "壊れた壁のピース 3"
         }
     }
 }
